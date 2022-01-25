@@ -1,0 +1,4 @@
+{
+    "html-css-class-completion.enableEmmetSupport": true,
+    "autoimport.filesToScan": "**/*.{ts,tsx,scss}"
+}
